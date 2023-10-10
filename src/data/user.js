@@ -19,7 +19,7 @@ const INFO = {
 	},
 
 	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
+		title: "Documenting each and every new thing that happens in my life....",
 		description:
 			"Collection of my long-form thoughts on other things I love",
 	},
