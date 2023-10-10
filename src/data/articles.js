@@ -95,7 +95,7 @@ function article_1() {
 	};
 }
 
-function article_2() {
+function article_3() {
 	return {
 		date: "23 September 2022",
 		title: "My first drone workshop",
@@ -177,7 +177,7 @@ function article_2() {
 		),
 	};
 }
-function article_3() {
+function article_2() {
 	return {
 		date: "29 August 2023",
 		title: "Quick snake game with Python- PART I",
