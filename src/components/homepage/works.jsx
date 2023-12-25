@@ -15,11 +15,24 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
+								src="https://media.licdn.com/dms/image/D4D0BAQHzzZ_3f0BiHw/company-logo_200_200/0/1697916403740/flavum_healthtech_logo?e=2147483647&v=beta&t=CMGNq4SnnqMFLcLFCvsyP2xRQNpnfqbutk56JyUwfLc"
+								alt="facebook"
+								className="work-image"
+							/>
+							<div className="work-title">Flavum Healthtech</div>
+							<div className="work-subtitle">
+								FullStack Developer, Team Lead
+							</div>
+						</div>
+						<div className="work">
+							<img
 								src="https://media.licdn.com/dms/image/C4E0BAQEvim2LHSDodA/company-logo_200_200/0/1622073412911?e=2147483647&v=beta&t=Wpg0kpQ0RNnKydogN7v15XJyhUvFYw3gfA28VjeGvz8"
 								alt="facebook"
 								className="work-image"
 							/>
-							<div className="work-title">Prosperix-Crowdstaffing</div>
+							<div className="work-title">
+								Prosperix-Crowdstaffing
+							</div>
 							<div className="work-subtitle">
 								Junior Software Engineer
 							</div>
@@ -31,7 +44,9 @@ const Works = () => {
 								alt="twitter"
 								className="work-image"
 							/>
-							<div className="work-title">Prosperix-Crowdstaffing</div>
+							<div className="work-title">
+								Prosperix-Crowdstaffing
+							</div>
 							<div className="work-subtitle">
 								Software Development-Intern
 							</div>
