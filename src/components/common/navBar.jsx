@@ -55,7 +55,7 @@ const NavBar = (props) => {
 										: "nav-item"
 								}
 							>
-								<Link to="https://drive.google.com/file/d/1cJPkizW3n47DRJD1mfTkkk8l8S-Oz79k/view?usp=drive_link">Resume</Link>
+								<Link to="https://drive.google.com/file/d/1lpcPdmW5SH4TerZXq_4Zoac6BUrt6vCw/view?usp=sharing">Resume</Link>
 							</li>
 						</ul>
 					</div>
