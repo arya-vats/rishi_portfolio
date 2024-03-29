@@ -22,7 +22,7 @@ const Footer = () => {
 							<Link to="/contact">Contact</Link>
 						</li>
 						<li className="footer-nav-link-item">
-							<Link to="https://drive.google.com/file/d/1lpcPdmW5SH4TerZXq_4Zoac6BUrt6vCw/view?usp=sharing">Resume</Link>
+							<Link to="https://drive.google.com/file/d/1m8neby6y_IxC8MlLbXu0FxVNHXy7TaZP/view?usp=sharing">Resume</Link>
 						</li>
 					</ul>
 				</div>
