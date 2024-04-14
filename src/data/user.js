@@ -13,9 +13,9 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "I build stuff, I break stuff, I fix stuff",
+		title: "Building, breaking and fixing since 2018",
 		description:
-			"My name is Arya. I am a Full Stack developer with expertise in Frontend as well as Backend technologies. I have experience in building secure and reliable web applications using various frameworks and technologies. Ranging from software development to diverse areas such as drones, aviation - I have had my fair share of experience in them, giving me the opportunity to be invited as a speaker for drones. I'm also the founder and technical lead of a society at college level."
+			"My name is Arya. I am a Full Stack developer with expertise in Frontend as well as Backend technologies. I have experience in building secure and reliable web applications using various frameworks and technologies. Ranging from software development to diverse areas such as drones, aviation - I have had my fair share of experience in them, giving me the opportunity to be invited as a speaker for drones. I'm also the founder and technical lead of a society at college level.",
 	},
 
 	articles: {
