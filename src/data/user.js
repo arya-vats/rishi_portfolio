@@ -46,7 +46,7 @@ const INFO = {
 		{
 			title: "Twitter Clone",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"A clone of the famous twitter app made entirely using NoddeJS and Pug. Designed the backend and the likes system from scratch.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://github.com/arya-vats/TwitterClone",
