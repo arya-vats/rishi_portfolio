@@ -15,6 +15,17 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
+								src="https://media.licdn.com/dms/image/v2/D560BAQHK_qe5RlyULg/company-logo_200_200/company-logo_200_200/0/1683639978515/visdum_logo?e=2147483647&v=beta&t=d6YBr74vp-UJ711up7mtfNKOIgjZgKxrUfLyZt7RkZM"
+								alt="facebook"
+								className="work-image"
+							/>
+							<div className="work-title">Visdum Tech</div>
+							<div className="work-subtitle">
+								SDE-1
+							</div>
+						</div>
+						<div className="work">
+							<img
 								src="https://media.licdn.com/dms/image/D4D0BAQHzzZ_3f0BiHw/company-logo_200_200/0/1697916403740/flavum_healthtech_logo?e=2147483647&v=beta&t=CMGNq4SnnqMFLcLFCvsyP2xRQNpnfqbutk56JyUwfLc"
 								alt="facebook"
 								className="work-image"
