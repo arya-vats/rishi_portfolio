@@ -10,7 +10,7 @@ function article_1() {
 			"The Benefits of Cloud Computing",
 			"Arya",
 			"Arya V",
-			"Arya Vats",
+			"Rishi Mathur",
 		],
 		style: `
 				.article-content {
@@ -105,7 +105,7 @@ function article_3() {
 			"The Benefits of Cloud Computing",
 			"Arya",
 			"Arya V",
-			"Arya Vats",
+			"Rishi Mathur",
 		],
 		style: `
 				.article-content {
@@ -184,7 +184,7 @@ function article_2() {
 		title: "Quick snake game with Python- PART I",
 		description:
 			"Understanding python OOPS and classes by building a snake game",
-		keywords: ["Python", "Arya", "Arya V", "Arya Vats"],
+		keywords: ["Python", "Arya", "Arya V", "Rishi Mathur"],
 		style: `
 				.article-content {
 					display: flex;

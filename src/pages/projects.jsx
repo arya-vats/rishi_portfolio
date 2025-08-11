@@ -39,12 +39,11 @@ const Projects = () => {
 					</div>
 					<div className="projects-container">
 						<div className="title projects-title">
-							Things I’ve made trying to put my dent in the
-							universe.
+							Building work that makes its mark.
 						</div>
 
 						<div className="subtitle projects-subtitle">
-							I strongly believe that making projects while learning is very important. Even if a person is a professional, projects are a reflection of their understanding and interests. So far I have developed many projects, here are some of them. You can find the rest of my builds <a href="https://github.com/arya-vats">here</a>.
+							Creating while learning is key; projects mirror both knowledge and passion. So far I have developed many projects, here are some of them. You can find the rest of my builds <a href="https://github.com/skyrunner360">here</a>.
 						</div>
 
 						<div className="projects-list">

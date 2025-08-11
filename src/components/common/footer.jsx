@@ -16,20 +16,17 @@ const Footer = () => {
 							<Link to="/projects">Projects</Link>
 						</li>
 						<li className="footer-nav-link-item">
-							<Link to="/extras">Extras</Link>
-						</li>
-						<li className="footer-nav-link-item">
 							<Link to="/contact">Contact</Link>
 						</li>
 						<li className="footer-nav-link-item">
-							<Link to="https://drive.google.com/file/d/1m8neby6y_IxC8MlLbXu0FxVNHXy7TaZP/view?usp=sharing">Resume</Link>
+							<Link to="https://rishi-resume-1.tiiny.site/">Resume</Link>
 						</li>
 					</ul>
 				</div>
 
 				<div className="footer-credits">
 					<div className="footer-credits-text">
-						© 2023 Arya Vats.
+						© 2025 Rishi Mathur.
 					</div>
 				</div>
 			</div>

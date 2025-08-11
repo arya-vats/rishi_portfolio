@@ -32,15 +32,6 @@ const NavBar = (props) => {
 							</li>
 							<li
 								className={
-									active === "extras"
-										? "nav-item active"
-										: "nav-item"
-								}
-							>
-								<Link to="/extras">Extras</Link>
-							</li>
-							<li
-								className={
 									active === "contact"
 										? "nav-item active"
 										: "nav-item"
@@ -55,7 +46,7 @@ const NavBar = (props) => {
 										: "nav-item"
 								}
 							>
-								<Link to="https://drive.google.com/file/d/1m8neby6y_IxC8MlLbXu0FxVNHXy7TaZP/view?usp=sharing">Resume</Link>
+								<Link to="https://rishi-resume-1.tiiny.site/">Resume</Link>
 							</li>
 						</ul>
 					</div>

@@ -1,82 +1,60 @@
 const INFO = {
 	main: {
-		title: "Arya",
-		name: "Arya Vats",
-		email: "aryavats10@gmail.com",
+		title: "Rishi Mathur",
+		name: "Rishi Mathur",
+		email: "mathurrishi31@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
-		github: "https://github.com/arya-vats",
-		linkedin: "https://www.linkedin.com/in/arya-v-006325132/",
-		instagram: "https://www.instagram.com/arya_vats10/",
+		github: "https://github.com/skyrunner360",
+		linkedin: "https://www.linkedin.com/in/skyrunner360/",
+		instagram: "https://www.instagram.com/skyrunner360/",
 	},
 
 	homepage: {
-		title: "Building, breaking and fixing since 2018",
+		title: "Full Stack Developer | React | Node.js | Firebase",
 		description:
-			"My name is Arya. I am a Full Stack developer with expertise in Frontend as well as Backend technologies. I have experience in building secure and reliable web applications using various frameworks and technologies. Ranging from software development to diverse areas such as drones, aviation - I have had my fair share of experience in them, giving me the opportunity to be invited as a speaker for drones. I'm also the founder and technical lead of a society at college level.",
+			"Masters in Computer Applications with expertise in building high-performance web applications using React, Node.js, Firebase, and MongoDB. Experienced in developing content management tools, competitor analysis dashboards, drag-and-drop content calendars, and mobile applications. Passionate about crafting intuitive UIs and scalable backend systems.",
 	},
 
 	articles: {
-		title: "Documenting each and every new thing that happens in my life....",
+		title: "Sharing insights, projects, and lessons learned from my journey",
 		description:
-			"Collection of my long-form thoughts on other things I love",
+			"Collection of thoughts, experiences, and technical deep-dives.",
 	},
 
 	projects: [
 		{
-			title: "Supply Chain simulation using blockchain",
+			title: "AI CV Parser",
 			description:
-				"Using blockchain and smart contracts to develop a system to easily view the supply chain of any product from manufacturing to wholesale to retailer to consumer ",
+				"An AI-powered tool that matches job requirements and edits CVs at scale.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com/arya-vats/supply-chain-truffle-react",
+			link: "",
 		},
-
 		{
-			title: "File sharing",
+			title: "AI Email Summarizer",
 			description:
-				"A simple file sharing Web App that uses nodejs, expressJs and a couple of packages to send and receive files direclty via email by dragging and dropping them.",
+				"Summarizes and prioritizes emails using large language models.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com/arya-vats/FileSharing",
+			link: "",
 		},
-
 		{
-			title: "Twitter Clone",
+			title: "Sahil Old Age Home",
 			description:
-				"A clone of the famous twitter app made entirely using NoddeJS and Pug. Designed the backend and the likes system from scratch.",
+				"Next.js site integrated with Razorpay for donations, serving 1,000+ users.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com/arya-vats/TwitterClone",
+			link: "https://sahiloldagehome.vercel.app/",
 		},
-
 		{
-			title: "Housetree",
-			description:
-				"A ReactJS based mini project that recommends the best house based on certain parameters.",
+			title: "Anime Quoter",
+			description: "3000+ anime quotes with search and share features.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com/arya-vats/Housetree",
-		},
-
-		{
-			title: "E-commerce website landing",
-			description:
-				"An ecommerce website created using reactJS. Mainly just to test some basic styling",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com/arya-vats/ecommerce",
-		},
-
-		{
-			title: "Home Automation",
-			description:
-				"Arduino code for home automation system that uses ultrasonic sensors to detect objects to switch off and switch on the lights automatically.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.png",
-			linkText: "View Project",
-			link: "https://github.com/arya-vats/Home-Automation",
+			link: "https://anime-quoter.netlify.app/",
 		},
 	],
 };
